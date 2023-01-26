@@ -1,3 +1,5 @@
+theme: midnight
+
 # TEST MARKDOWN 
 
 ## More testing
